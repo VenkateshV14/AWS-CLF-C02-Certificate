@@ -1,10 +1,10 @@
 ## 📜 Certification  
 **AWS Cloud Practitioner**  
-Issued by **Amazon Web Services (AWS)** | **January 2024**  
+Issued by **Amazon Web Services (AWS)** | **August-25-2024**  
 
 <p align="center">
   <a href="https://www.credly.com/badges/example-link">
-    <img src="https://via.placeholder.com/150" alt="AWS Certification">
+    <img src="AWS-CLF-C02-cert.png" alt="AWS Certification">
   </a>
 </p>
 
